@@ -1,0 +1,5 @@
+{
+	"prefix": ">",
+    "token": "<bot_token>",
+	"backup": "<bot_token>"
+}
